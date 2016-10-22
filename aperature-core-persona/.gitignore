@@ -2,3 +2,6 @@
 .project
 bin/*
 bin/
+/target/
+.settings/
+.settings/*
