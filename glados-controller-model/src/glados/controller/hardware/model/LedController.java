@@ -1,6 +1,6 @@
 package glados.controller.hardware.model;
 
-public class Led extends HardwareModel {
+public class LedController extends HardwareController {
 	private static final long serialVersionUID = -2052891950390587540L;
 	private boolean isOn;
 

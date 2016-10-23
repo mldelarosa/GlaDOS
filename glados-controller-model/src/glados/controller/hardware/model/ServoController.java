@@ -1,6 +1,6 @@
 package glados.controller.hardware.model;
 
-public class Servo {
+public class ServoController {
 	private static final long serialVersionUID = -2052891950390587540L;
 	private int currentPosition;
 	private int maxPosition;

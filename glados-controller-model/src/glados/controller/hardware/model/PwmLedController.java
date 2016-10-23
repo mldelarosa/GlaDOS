@@ -1,6 +1,6 @@
 package glados.controller.hardware.model;
 
-public class PwmLed extends Led {
+public class PwmLedController extends LedController {
 	private static final long serialVersionUID = -2052891950390587540L;
 	
 	private int pwmValue;
