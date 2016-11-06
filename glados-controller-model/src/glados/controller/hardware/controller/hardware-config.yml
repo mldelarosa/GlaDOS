@@ -1,0 +1,7 @@
+mg90sServoModel: mg90s
+mg90sServoMaxDegree: 180
+mg90sServoMinDegree: 0
+mg90sServoPwmPeriodMs: 20.0
+mg90sServoPwmPeriodForMaxPositionMs: 2.0
+mg90sServoPwmPeriodForMinPositionMs:1.0
+mg90sServoPwmPeriodForNeutralPositionMs: 1.5

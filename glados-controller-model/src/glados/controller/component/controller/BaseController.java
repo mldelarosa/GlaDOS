@@ -1,7 +1,7 @@
 package glados.controller.component.controller;
 
-import glados.controller.hardware.model.ServoController;
+import glados.controller.hardware.controller.ServoControllerInterface;
 
 public class BaseController {
-	private ServoController baseServo;
+	private ServoControllerInterface baseServo;
 }
